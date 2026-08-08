@@ -61,7 +61,7 @@ figcaption {
 }
 
 @media screen and (min-width: 772px) {
-  .gallery, 
+  .grid, 
   main, 
   .container {
     grid-template-columns: repeat(2, 1fr);
